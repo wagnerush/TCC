@@ -31,7 +31,7 @@
 		  </div>
 		</div>
 	</div>
-	<div class="col-md">
+	<!-- <div class="col-md">
 	  	<div class="card" style="width: 18rem;">
 		  <img src="https://wmedien.shopping.marketup.com/Content/Images/sem-foto.gif" class="card-img-top" alt="...">
 		  <div class="card-body">
@@ -40,8 +40,8 @@
 		    <a href="?pg=saibamais&slug=" class="btn btn-primary">Saiba mais</a>
 		  </div>
 		</div>
-	</div>
-	<div class="col-md">
+	</div> -->
+	<!-- <div class="col-md">
 	  	<div class="card" style="width: 18rem;">
 		  <img src="https://wmedien.shopping.marketup.com/Content/Images/sem-foto.gif" class="card-img-top" alt="...">
 		  <div class="card-body">
@@ -50,8 +50,8 @@
 		    <a href="?pg=saibamais&slug=" class="btn btn-primary">Saiba mais</a>
 		  </div>
 		</div>
-	</div>
-	<div class="col-md">
+	</div> -->
+	<!-- <div class="col-md">
 	  	<div class="card" style="width: 18rem;">
 		  <img src="https://wmedien.shopping.marketup.com/Content/Images/sem-foto.gif" class="card-img-top" alt="...">
 		  <div class="card-body">
@@ -60,6 +60,6 @@
 		    <a href="?pg=saibamais&slug=" class="btn btn-primary">Saiba mais</a>
 		  </div>
 		</div>
-	</div>
+	</div> -->
 
 </div>

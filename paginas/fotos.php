@@ -12,12 +12,8 @@ $sql = "SELECT * FROM fotos WHERE slug = $slug";
 
 $query = mysqli_query($conexao, $sql);
 
-if($row = mysqli_fetch_assoc($query)){
-    $caminho= $row["caminho"];
-    $descricao = $row["descricao"];
-    }
-
 ?>
+
 <div class="container">
   <div class="row">
     <div class="col-3">
@@ -31,6 +27,17 @@ if($row = mysqli_fetch_assoc($query)){
 
     	<div class="col-9">
     		
+        <?php
+
+          while($row = mysqli_fetch_assoc($query)){
+
+            echo
+
+
+
+          }
+        ?>
+
 
  
 

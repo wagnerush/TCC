@@ -31,8 +31,17 @@ if($row = mysqli_fetch_assoc($query)){
     </div>
 
     	<div class="col-9">
-    		<h3> efqerfqefqfrefq   </h3>
+    		
+        <?php
 
+          echo htmlentities($descricao);
+          echo "<br>";
+
+          echo htmlentities($caminho);
+
+         
+
+        ?>
  
 
 
